@@ -1,0 +1,14 @@
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\bin\Debug\net8.0\session2.exe
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\bin\Debug\net8.0\session2.deps.json
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\bin\Debug\net8.0\session2.runtimeconfig.json
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\bin\Debug\net8.0\session2.dll
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\bin\Debug\net8.0\session2.pdb
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.AssemblyInfoInputs.cache
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.AssemblyInfo.cs
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.csproj.CoreCompileInputs.cache
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.dll
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\refint\session2.dll
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.pdb
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
+E:\Study\Cybersoft_NET_16102024\demo\cybersoft_dotnet2\session2\obj\Debug\net8.0\ref\session2.dll
